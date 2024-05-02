@@ -2,8 +2,6 @@ var alunos = []
 
 var alunosAlterado = null
 
-
-
 function adicionar() {
     document.getElementById("ra").disabled = false
     alunoAlterado = null
